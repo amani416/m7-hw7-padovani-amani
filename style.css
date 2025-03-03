@@ -53,6 +53,7 @@ main > article, nav{
 
 nav {
   display: flex;
+  padding: 0px 10px;
 }
 
 nav > a:not(:first-of-type){
