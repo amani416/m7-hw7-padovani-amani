@@ -83,7 +83,7 @@ main > section.hero {
   text-align: center;
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 2;
 }
 
 section.hero > .call-to-action {
@@ -162,7 +162,7 @@ span.tooltip span {
   z-index: 1;
   bottom: 150%;
   left: 50%;
-  margin-left: -60px;
+  margin-left: -5px;
 }
 
 /* styling for tooltip bubble arrow */
