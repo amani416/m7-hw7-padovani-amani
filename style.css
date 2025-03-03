@@ -154,3 +154,11 @@ span.tooltip span {
 span.tooltip span::after {
   content: "";
 }
+
+span {
+  float: left;
+  width: 0.7em;
+  font-size: 350%;
+  font-family: cursive;
+  line-height: 80%;
+}
