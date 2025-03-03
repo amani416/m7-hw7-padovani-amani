@@ -155,7 +155,7 @@ span.tooltip span::after {
   content: "";
 }
 
-span {
+span.dropletter {
   float: left;
   width: 0.7em;
   font-size: 350%;
